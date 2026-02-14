@@ -98,7 +98,7 @@ button:hover{
 
 <!-- Müzik (Gizli YouTube Embed) -->
 <iframe width="0" height="0" 
-src="https://www.youtube.com/embed/6GqS1K9Qp9Q?autoplay=1&loop=1&playlist=6GqS1K9Qp9Q" 
+src="https://youtu.be/7F8ew3WyUeA?si=CWgbetI8eSJC1kB_" 
 frameborder="0" allow="autoplay">
 </iframe>
 
